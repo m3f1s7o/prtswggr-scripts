@@ -25,6 +25,11 @@ For any of these scripts, once you have started your lab, you'll need to capture
 
 And use the values to fill up the fields in the script:
 
+```shell-session
+$ chmod +x ./cndtionl_rspnse.py
+$ ./cndtionl_rspnse.py
+```
+
 ![image](https://github.com/m3f1s7o/prtswggr-scripts/assets/65306021/30997fee-ee65-4b72-b572-8858c6acefb8)
 
 ---
